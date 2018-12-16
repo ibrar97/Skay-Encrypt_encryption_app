@@ -7,7 +7,8 @@ With Skay-Encrypt you can encrypt/decrypt your private files with password
 </p>
 
 ## Installation
-For using source code, download this repository / clone it. 
-After that, Open file <b> "EncryptionApp.sln" </b> from Visual Studio
-Make sure you've installed .Net Framework.
+<p>For using source code, download this repository / clone it <\p> 
+<p>After that, Open file <b> "EncryptionApp.sln" </b> from Visual Studio</p>
+ <p>Make sure you've installed Latest .Net Framework (req = 4.6)</p>
 
+<b>NOTE: This app is not for personal/commerical use</b>
